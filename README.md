@@ -26,6 +26,14 @@ Este projeto tem como objetivo criar uma simulação funcional de uma **máquina
 
 ---
 
+## Tarefas
+
+- Comentar o código
+
+- Checar por erros
+
+- Arrumar para não sair das operações de admin ao digitar um valor inválido, apenas apresentar o erro e tentar de novo
+
 ## Como clonar e rodar o projeto
 
 Mesmo que você nunca tenha usado o Git, siga este passo a passo:
